@@ -29,7 +29,7 @@ export default function Layout({ children, home }) {
               priority
               src="/images/profile.png"
               className={utilStyles.borderCircle}
-              height={144}
+              height={212}
               width={144}
               alt=""
             />
@@ -42,7 +42,7 @@ export default function Layout({ children, home }) {
                 priority
                 src="/images/profile.png"
                 className={utilStyles.borderCircle}
-                height={108}
+                height={159}
                 width={108}
                 alt=""
               />
